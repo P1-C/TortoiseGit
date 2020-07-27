@@ -1,1 +1,3 @@
 test file created for adding new file to lacal repository
+
+modified to test the git fetch,merge and pull.
