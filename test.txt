@@ -1,9 +1,12 @@
 #test file created for adding new file to lacal repository
 
 
+
 #modified to test the git fetch,merge
+
 
 #modified to test the git Pull
 
 
 #testing branches 
+#testing 3-way merge
