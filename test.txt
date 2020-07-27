@@ -1,3 +1,6 @@
-test file created for adding new file to lacal repository
+#test file created for adding new file to lacal repository
 
-modified to test the git fetch,merge and pull.
+
+#modified to test the git fetch,merge
+
+#modified to test the git Pull
